@@ -1,0 +1,44 @@
+# Diretórios
+node_modules/
+dist/
+build/
+
+# Arquivos
+.env
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+my-logs.log
+
+# Arquivos de histórico de sessão
+.history/
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de backup (ex: nome_arquivo.bkp)
+*.bkp
+
+# Cache e arquivos compilados
+*.cache
+*.log
+
+# Arquivos VSCode
+.vscode/
+
+# Arquivos de configuração do JetBrains
+.idea/
+
+# Dependendo do seu sistema de build
+.npmrc
+yarn.lock
+package-lock.json
+
+# Dependendo das suas ferramentas de teste
+coverage/
+.nyc_output/
+nodemon.json
+
+accounts.json
